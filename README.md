@@ -3,5 +3,8 @@
 ### Course Resources Link
 - Lec 01: https://fcibuedu-my.sharepoint.com/:p:/g/personal/mohamed_issa_fci_bu_edu_eg/IQDWzoRZF_unQI5Ei0K_6SZwAebtdrVxT_uQxdSU5bIzgeQ
 - Lec 02: https://fcibuedu-my.sharepoint.com/:p:/g/personal/noha_eldemerdash_fci_bu_edu_eg/IQAKZpHNaAucTIJG3m-R9VqcATpu3ELL_Uy-WHDC2B0oMWw
+- Lec 06: https://fcibuedu-my.sharepoint.com/:p:/g/personal/noha_eldemerdash_fci_bu_edu_eg/IQDb10LF_bJCRb285GvmwJtdAdEMXRM61WL6QGKrFTd4vpY
+
 
 <!-- https://drive.google.com/drive/folders/1U-x6YTAaE622H-dJ8QWM7ZfSSi85CEkT -->
+<!-- - other lec can be downloaded from the upper  -->
