@@ -1,7 +1,7 @@
 ## Technical Writing
 
 ```diff
-- The Technical Writing Lecture on 23 April will be postponed, and we will take it at another time.
++ The Technical Writing Lecture on 30 April will be held at 3 pm at Hall 2 (Modareg 2).
 ```
 
 ### Course Resources Link
